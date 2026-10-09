@@ -1,0 +1,15 @@
+# Credenciais do Google (nunca versionar)
+credenciais/*
+!credenciais/LEIA-ME.txt
+
+# Planilhas e relatórios de cada mês
+entrada/*
+!entrada/LEIA-ME.txt
+saida/*
+!saida/LEIA-ME.txt
+
+__pycache__/
+.pytest_cache/
+.venv/
+.DS_Store
+~$*

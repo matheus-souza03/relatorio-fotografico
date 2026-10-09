@@ -1,0 +1,6 @@
+Coloque aqui o arquivo .json de acesso ao Google Drive (veja o passo a passo no LEIAME.md).
+
+- Pode ser a chave de uma "conta de serviço" (recomendado) ou um "ID do cliente OAuth".
+- Se for OAuth, o programa cria aqui também o arquivo token.json depois do primeiro login.
+
+ATENÇÃO: estes arquivos dão acesso às fotos. Não envie por e-mail nem compartilhe.

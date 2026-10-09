@@ -1,0 +1,3 @@
+# Suporte a fotos HEIC (iPhone). Instalado à parte porque pode não existir para
+# computadores muito antigos; sem ele, o restante do programa funciona normalmente.
+pillow-heif>=0.16
